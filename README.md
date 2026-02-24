@@ -61,6 +61,7 @@ toLocaleString("sl-SI", {
   style: "currency",
   currency: "EUR"
 });
+```
 
 ---
 
