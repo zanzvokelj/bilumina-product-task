@@ -1,6 +1,6 @@
 import type { ApiResponse } from "../types/api";
 
-const API_KEY = import.meta.env.BILUMINA_API_KEY;
+const API_KEY = import.meta.env.VITE_BILUMINA_API_KEY;
 
 const API_URL = `https://egi.bilumina.com/mw/api/v1/items/get?key=${API_KEY}`;
 
