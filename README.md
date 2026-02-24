@@ -1,6 +1,8 @@
 
 # Tehnična naloga – Prikaz artiklov
 
+Demo (Vercel): https://bilumina-product-task.vercel.app
+
 ## Uporabljena tehnologija
 
 - React 18
