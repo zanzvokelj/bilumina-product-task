@@ -60,7 +60,7 @@ Cene so formatirane z:
 toLocaleString("sl-SI", {
   style: "currency",
   currency: "EUR"
-})
+});
 
 ---
 
@@ -87,8 +87,3 @@ Upoštevana so naslednja stanja:
 
 ---
 
-## Zagon projekta
-
-```bash
-npm install
-npm run dev
